@@ -1,0 +1,14 @@
+[0m[2m[35m$[0m [2m[1mtsup --watch[0m
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.0
+[34mCLI[39m Using tsup config: /home/user2/mydata/mybot/packages/embeds/react/tsup.config.ts
+[34mCLI[39m Running in watch mode
+[34mCLI[39m Target: es2022
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js [22m[32m2.52 KB[39m
+[32mESM[39m ⚡️ Build success in 47ms
+[34mCLI[39m Watching for changes in "."
+[34mCLI[39m Ignoring changes in "**/{.git,node_modules}/**" | "dist"
+[34mDTS[39m Build start
+[32mDTS[39m ⚡️ Build success in 76650ms
